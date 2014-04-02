@@ -46,6 +46,12 @@ Go 语言学习资料与社区索引
 	- [Go by Example](https://gobyexample.com/)
 	- [GopherCasts](https://gophercasts.io/)
 	- [Go database/sql tutorial](http://go-database-sql.org/)
+- 支持 Go 的云平台：
+	- [Koding](https://koding.com/)
+	- [Nitrous.IO](https://www.nitrous.io/)
+- 其它站点：
+	 - [Newspaper. IO](http://www.newspaper.io/golang)：Golang 新闻订阅
+	 - [Go Newsletter](http://www.golangweekly.com/)：Golang 新闻订阅
 
 ## 资料汇总
 
@@ -75,6 +81,9 @@ Go 语言学习资料与社区索引
 
 ## 名人名博
 
+- Go：
+	- Twitter: [@golang](https://twitter.com/golang)
+	- 博客：[The Go Blog](http://blog.golang.org/)
 - Golang中国：
 	- 微博：[@Golang中国](http://www.weibo.com/u/3211200050)
 	- 博客：[Golang 中国博客](http://blog.go-china.org/)
@@ -88,6 +97,31 @@ Go 语言学习资料与社区索引
 	- Twitter: [@joe2010xtmf](https://twitter.com/joe2010xtmf)
 	- 博客：[无闻的小站](http://wuwen.org/) - [UNKNOWN](http://obahua.com/)
 	- GitHub：[@Unknwon](https://github.com/Unknwon)
+- 肖伦文：
+	- 微博：[@肖伦文Lunny](http://www.weibo.com/xiaolunwen)
+	- Twitter: [@lunny](https://twitter.com/lunny)
+	- GitHub：[@lunny](https://github.com/lunny)
+- 马全一:
+	- 微博：[@马全一](http://www.weibo.com/genedna)
+	- Twitter: [@genedna](https://twitter.com/genedna)
+- 傅小黑:
+	- 微博：[@傅小黑](http://weibo.com/772881987)
+	- GitHub：[@fuxiaohei](https://github.com/fuxiaohei)
+- 特价萝卜:
+	- 微博：[@特价萝卜](http://www.weibo.com/freej)
+- Docker 中文社区：
+	- 微博：[@Docker中文社区](http://www.weibo.com/dockboard)
+	- Twitter: [@dockboard](https://twitter.com/dockboardorg)
+	- 博客：[Docker 中文社区](http://www.dockboard.org/)
 - Gopher Academy：
 	- Twitter: [@GopherAcademy](https://twitter.com/GopherAcademy)
 	- 博客：[Gopher Academy Blog](http://blog.gopheracademy.com/)
+- William Kennedy：
+	- Twitter: [@goinggodotnet](https://twitter.com/goinggodotnet)
+	- 博客：[Going Go Programming](http://www.goinggo.net/)
+
+## 职业信息
+
+- Go/Golang jobs：
+	- 官方网站：http://www.golangprojects.com/
+	- Twitter: [@golangprojects](https://twitter.com/golangprojects)
