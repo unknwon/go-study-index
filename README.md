@@ -79,6 +79,12 @@ Go 语言学习资料与社区索引
 	- [An Introduction to Programming in Go](http://www.golang-book.com/)
 	- [Go Bootcamp](http://www.golangbootcamp.com/book)
 
+### 视频资料
+- 基础：
+	- Go Slices and Bytes - Shakeel Mahate [[优酷视频]](http://v.youku.com/v_show/id_XNjkzMjM1Mjg4.html) [[Youtube]](http://www.youtube.com/watch?v=dKlNSIUSfz0)
+- COSCUP 2013:
+	- Golang & ORM - 林佑安 [[优酷视频]](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) [[Youtube]](http://www.youtube.com/watch?v=VwAtYGyjTks)
+
 ## 名人名博
 
 - Go：
