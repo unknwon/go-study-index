@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2014 年 4 月 2 日
+**最后更新时间**：2014 年 4 月 3 日
 
 ## 交流社区
 
@@ -31,6 +31,8 @@ Go 语言学习资料与社区索引
 
 ## 网址导航
 
+- 官方：
+	- [Playground](http://play.golang.org)：Go 语言代码在线运行
 - 国内镜像：
 	- [Go 指南国内镜像](http://tour.golangtc.com/)
 	- [Go 语言国内下载镜像](http://www.golangtc.com/download)
@@ -38,6 +40,9 @@ Go 语言学习资料与社区索引
 - Web 框架：
 	- [beego](http://beego.me/)：国人开发的轻量级 Web 框架
 	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
+- ORM 以及数据库驱动：
+	- [xorm](https://github.com/lunny/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
