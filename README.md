@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2014 年 4 月 1 日
+**最后更新时间**：2014 年 4 月 2 日
 
 ## 交流社区
 
@@ -14,6 +14,7 @@ Go 语言学习资料与社区索引
  - [Golang 中国](http://www.golangtc.com/)：国内较早的 Go 社区，汇聚各类信息与服务
  - [Study Golang](http://studygolang.com/)：国内 Go 社区先驱，同样汇聚各类信息与服务
  - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
+ - [SudoChina](http://www.sudochina.com/)：基于 [beego](http://beego.me/) 的问答社区
  - QQ 群：
  	- Go Web 编程群：259316004
  	- Golang 中国：211938256
@@ -40,7 +41,11 @@ Go 语言学习资料与社区索引
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
+	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
 - 开发工具：
+	- [LiteIDE](https://github.com/visualfc/liteide)
+	- [Sublime Text 2/3](http://sublimetext.com)：[配置教程](http://my.oschina.net/Obahua/blog/110767)
+	- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 - 学习站点：
 	- [Go China 网络课堂](http://edu.go-china.org/)
 	- [Go by Example](https://gobyexample.com/)
@@ -81,9 +86,9 @@ Go 语言学习资料与社区索引
 
 ### 视频资料
 - 基础：
-	- Go Slices and Bytes - Shakeel Mahate [[优酷视频]](http://v.youku.com/v_show/id_XNjkzMjM1Mjg4.html) [[Youtube]](http://www.youtube.com/watch?v=dKlNSIUSfz0)
+	- Go Slices and Bytes - Shakeel Mahate：[优酷视频](http://v.youku.com/v_show/id_XNjkzMjM1Mjg4.html) - [Youtube](http://www.youtube.com/watch?v=dKlNSIUSfz0)
 - COSCUP 2013:
-	- Golang & ORM - 林佑安 [[优酷视频]](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) [[Youtube]](http://www.youtube.com/watch?v=VwAtYGyjTks)
+	- Golang & ORM - 林佑安：[优酷视频](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) - [Youtube](http://www.youtube.com/watch?v=VwAtYGyjTks)
 
 ## 名人名博
 
