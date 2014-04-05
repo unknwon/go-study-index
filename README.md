@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2014 年 4 月 3 日
+**最后更新时间**：2014 年 4 月 5 日
 
 ## 交流社区
 
@@ -60,8 +60,9 @@ Go 语言学习资料与社区索引
 	- [Koding](https://koding.com/)
 	- [Nitrous.IO](https://www.nitrous.io/)
 - 其它站点：
-	 - [Newspaper. IO](http://www.newspaper.io/golang)：Golang 新闻订阅
-	 - [Go Newsletter](http://www.golangweekly.com/)：Golang 新闻订阅
+	- [Reddit](http://www.reddit.com/r/golang/)
+	- [Newspaper. IO](http://www.newspaper.io/golang)：Golang 新闻订阅
+	- [Go Newsletter](http://www.golangweekly.com/)：Golang 新闻订阅
 
 ## 资料汇总
 
