@@ -40,8 +40,9 @@ Go 语言学习资料与社区索引
 - Web 框架：
 	- [beego](http://beego.me/)：国人开发的轻量级 Web 框架
 	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
+	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化Web应用而生的GO语言框架
 - ORM 以及数据库驱动：
-	- [xorm](https://github.com/lunny/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
 	- [SSDB](http://www.ideawu.com/ssdb/zh_cn/): 高性能 kv 数据库
 - 辅助站点：
