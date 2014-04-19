@@ -75,6 +75,8 @@ Go 语言学习资料与社区索引
 	- [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 	- [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
+- 翻译：
+	- [Effective Go](http://blog.chingli.com/2014/04/effective-go/)
 - 教程：
 	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
