@@ -43,6 +43,7 @@ Go 语言学习资料与社区索引
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/lunny/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
+	- [SSDB](http://www.ideawu.com/ssdb/zh_cn/): 高性能 kv 数据库
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
