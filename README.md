@@ -88,6 +88,7 @@ Go 语言学习资料与社区索引
 
 - 文档：
 	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
+	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
 - 书籍：
 	- [Network programming with Go](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
 	- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
