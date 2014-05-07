@@ -100,7 +100,7 @@ Go 语言学习资料与社区索引
 	- Go Slices and Bytes - Shakeel Mahate：[优酷视频](http://v.youku.com/v_show/id_XNjkzMjM1Mjg4.html) - [Youtube](http://www.youtube.com/watch?v=dKlNSIUSfz0)
 - COSCUP 2013:
 	- Golang & ORM - 林佑安：[优酷视频](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) - [Youtube](http://www.youtube.com/watch?v=VwAtYGyjTks)
-	- GopherCon 2014：[Youtube](http://confreaks.com/events/gophercon2014)
+- GopherCon 2014：[Youtube](http://confreaks.com/events/gophercon2014)
 
 ## 名人名博
 
