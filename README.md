@@ -79,7 +79,7 @@ Go 语言学习资料与社区索引
 	- [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 - 翻译：
-	- [Effective Go](http://blog.chingli.com/2014/04/effective-go/)
+	- [Effective Go](http://www.hellogcc.org/effective_go.html)
 - 教程：
 	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
