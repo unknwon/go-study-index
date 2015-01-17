@@ -10,7 +10,7 @@ Go 语言学习资料与社区索引
 
 ### 中文社区
 
- - [Go 中国社区](http://bbs.go-china.org/)：基于 [WeTalk](https://github.com/beego/wetalk) 搭建的新型社区
+ - [golanghome社区](http://golanghome.com/)：基于 [WeTalk](https://github.com/beego/wetalk) 搭建的新型社区
  - [Golang 中国](http://www.golangtc.com/)：国内较早的 Go 社区，汇聚各类信息与服务
  - [Study Golang](http://studygolang.com/)：国内 Go 社区先驱，同样汇聚各类信息与服务
  - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
@@ -78,6 +78,7 @@ Go 语言学习资料与社区索引
 	- [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 	- [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
+	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
 - 翻译：
 	- [Effective Go](http://www.hellogcc.org/effective_go.html)
 - 教程：
