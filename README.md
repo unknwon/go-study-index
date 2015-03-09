@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2014 年 5 月 18 日
+**最后更新时间**：2015 年 3 月 9 日
 
 ## 交流社区
 
@@ -22,7 +22,6 @@ Go 语言学习资料与社区索引
  	- Golang Web 开发：231956113
  	- Go 编程语言：102319854
  	- Martini 交流群：371440803
- 	- Revel 交流群：90062163
 
 ### 英文社区
 
@@ -104,47 +103,7 @@ Go 语言学习资料与社区索引
 - COSCUP 2013:
 	- Golang & ORM - 林佑安：[优酷视频](http://v.youku.com/v_show/id_XNjkzMTQ1MjYw.html) - [Youtube](http://www.youtube.com/watch?v=VwAtYGyjTks)
 - GopherCon 2014：[Youtube](http://confreaks.com/events/gophercon2014)
-
-## 名人名博
-
-- Go：
-	- Twitter: [@golang](https://twitter.com/golang)
-	- 博客：[The Go Blog](http://blog.golang.org/)
-- Golang中国：
-	- 微博：[@Golang中国](http://www.weibo.com/u/3211200050)
-	- 博客：[Golang 中国博客](http://blog.go-china.org/)
-	- 微信：golangchina
-- ASTA谢：
-	- 微博：[@ASTA谢](http://www.weibo.com/533452688)
-	- Twitter: [@astaxie](https://twitter.com/astaxie)
-	- GitHub：[@astaxie](https://github.com/astaxie)
-- 无闻：
-	- 微博：[@无闻Unknown](http://www.weibo.com/Obahua)
-	- Twitter: [@joe2010xtmf](https://twitter.com/joe2010xtmf)
-	- 博客：[无闻的小站](http://wuwen.org/) - [UNKNOWN](http://obahua.com/)
-	- GitHub：[@Unknwon](https://github.com/Unknwon)
-- 肖伦文：
-	- 微博：[@肖伦文Lunny](http://www.weibo.com/xiaolunwen)
-	- Twitter: [@lunny](https://twitter.com/lunny)
-	- GitHub：[@lunny](https://github.com/lunny)
-- 马全一:
-	- 微博：[@马全一](http://www.weibo.com/genedna)
-	- Twitter: [@genedna](https://twitter.com/genedna)
-- 傅小黑:
-	- 微博：[@傅小黑](http://weibo.com/772881987)
-	- GitHub：[@fuxiaohei](https://github.com/fuxiaohei)
-- 特价萝卜:
-	- 微博：[@特价萝卜](http://www.weibo.com/freej)
-- Docker 中文社区：
-	- 微博：[@Docker中文社区](http://www.weibo.com/dockboard)
-	- Twitter: [@dockboard](https://twitter.com/dockboardorg)
-	- 博客：[Docker 中文社区](http://www.dockboard.org/)
-- Gopher Academy：
-	- Twitter: [@GopherAcademy](https://twitter.com/GopherAcademy)
-	- 博客：[Gopher Academy Blog](http://blog.gopheracademy.com/)
-- William Kennedy：
-	- Twitter: [@goinggodotnet](https://twitter.com/goinggodotnet)
-	- 博客：[Going Go Programming](http://www.goinggo.net/)
+- GopherCon India 2015: [Youtube](https://www.youtube.com/playlist?list=PLxFC1MYuNgJTY3uQ5Ja4F5Sz305nnrBOq)
 
 ## 职业信息
 
