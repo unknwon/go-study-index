@@ -49,6 +49,7 @@ Go 语言学习资料与社区索引
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
 	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
 - 开发工具：
+    - [Emacs24](http://ftp.gnu.org/gnu/emacs/)：[配置脚本](https://github.com/wackonline/hack/blob/master/install-mint-dev/install-emacs.d.sh)[中文社区](http://emacser.com/)
 	- [LiteIDE](https://github.com/visualfc/liteide)
 	- [Sublime Text 2/3](http://sublimetext.com)：[配置教程](http://my.oschina.net/Obahua/blog/110767)
 	- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
