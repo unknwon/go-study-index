@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2015 年 3 月 9 日
+**最后更新时间**：2015 年 10 月 13 日
 
 ## 交流社区
 
@@ -62,6 +62,11 @@ Go 语言学习资料与社区索引
 - 支持 Go 的云平台：
 	- [Koding](https://koding.com/)
 	- [Nitrous.IO](https://www.nitrous.io/)
+	- [Get up and running with Go on Google Cloud Platform]( https://cloud.google.com/go/)
+	- [AWS SDK for Go - Developer Preview](http://aws.amazon.com/cn/sdk-for-go/):=>[github](https://github.com/aws/aws-sdk-go)
+	- [azure sdk for go](https://godoc.org/github.com/Azure/azure-sdk-for-go):=>[github](https://github.com/Azure/azure-sdk-for-go)
+        - [How to Use CoreOS on Azure](https://azure.microsoft.com/zh-cn/documentation/articles/virtual-machines-linux-coreos-how-to/)
+        - [Create Azure Web app with GoLang extension](https://azure.microsoft.com/zh-cn/documentation/templates/101-webapp-with-golang/)
 - 其它站点：
 	- [Golang 杂志](https://flipboard.com/section/the-golang-magazine-bJ1GqB)：[订阅说明](http://bbs.go-china.org/post/476)
 	- [Reddit](http://www.reddit.com/r/golang/)
@@ -81,7 +86,9 @@ Go 语言学习资料与社区索引
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
 - 翻译：
-	- [Effective Go](http://www.hellogcc.org/effective_go.html)
+	- [Effective Go](https://golang.org/doc/effective_go.html)英文版:=>[Effective Go ](http://www.hellogcc.org/effective_go.html)中文版
+	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN):中文版
+	- [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn)中文版
 - 教程：
 	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
@@ -97,6 +104,16 @@ Go 语言学习资料与社区索引
 	- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
 	- [An Introduction to Programming in Go](http://www.golang-book.com/)
 	- [Go Bootcamp](http://www.golangbootcamp.com/book)
+	- [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
+	- [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
+	- [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
+
+
+
+
+
+ 
+ 
 
 ### 视频资料
 
@@ -111,4 +128,4 @@ Go 语言学习资料与社区索引
 
 - Go/Golang jobs：
 	- 官方网站：http://www.golangprojects.com/
-	- Twitter: [@golangprojects](https://twitter.com/golangprojects)
+	- Twitter: [@golangprojects](https://twitter.com/golangprojects) 
