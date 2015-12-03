@@ -67,6 +67,8 @@ Go 语言学习资料与社区索引
 	- [azure sdk for go](https://godoc.org/github.com/Azure/azure-sdk-for-go):=>[github](https://github.com/Azure/azure-sdk-for-go)
         - [How to Use CoreOS on Azure](https://azure.microsoft.com/zh-cn/documentation/articles/virtual-machines-linux-coreos-how-to/)
         - [Create Azure Web app with GoLang extension](https://azure.microsoft.com/zh-cn/documentation/templates/101-webapp-with-golang/)
+    - [Qiniu](https://www.qiniu.com)
+    	- [Qiniu SDK for Go](http://developer.qiniu.com/docs/v6/sdk/go-sdk.html):=>[github](https://github.com/qiniu/api.v7)
 - 其它站点：
 	- [Golang 杂志](https://flipboard.com/section/the-golang-magazine-bJ1GqB)：[订阅说明](http://bbs.go-china.org/post/476)
 	- [Reddit](http://www.reddit.com/r/golang/)
