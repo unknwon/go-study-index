@@ -54,6 +54,7 @@ Go 语言学习资料与社区索引
 	- [Sublime Text 2/3](http://sublimetext.com)：[配置教程](http://my.oschina.net/Obahua/blog/110767)
 	- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
     - [Atom](https://atom.io)：[配置插件](https://atom.io/packages/go-plus)(感觉还不错，类似sublime，配置比较简单)
+    - [VIM](http://www.vim.org)：[配置插件](https://github.com/humiaozuzu/dot-vimrc)(嫌vim配置麻烦的童鞋可以直接用这个)
 - 学习站点：
 	- [Go China 网络课堂](http://edu.go-china.org/)
 	- [Go by Example](https://gobyexample.com/)
@@ -68,7 +69,7 @@ Go 语言学习资料与社区索引
         - [How to Use CoreOS on Azure](https://azure.microsoft.com/zh-cn/documentation/articles/virtual-machines-linux-coreos-how-to/)
         - [Create Azure Web app with GoLang extension](https://azure.microsoft.com/zh-cn/documentation/templates/101-webapp-with-golang/)
     - [Qiniu](https://www.qiniu.com)
-    	- [Qiniu SDK for Go](http://developer.qiniu.com/docs/v6/sdk/go-sdk.html):=>[github](https://github.com/qiniu/api.v7)
+    	- [Qiniu SDK for Go](http://developer.qiniu.com/docs/v6/sdk/go-sdk.html):=>[github](https://github.com/qiniu/api.v6)
 - 其它站点：
 	- [Golang 杂志](https://flipboard.com/section/the-golang-magazine-bJ1GqB)：[订阅说明](http://bbs.go-china.org/post/476)
 	- [Reddit](http://www.reddit.com/r/golang/)
