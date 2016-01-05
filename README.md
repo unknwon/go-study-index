@@ -95,6 +95,7 @@ Go 语言学习资料与社区索引
 	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 	- [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
+	- [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 
 ### 英文资料
 
