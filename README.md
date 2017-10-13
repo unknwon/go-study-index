@@ -10,7 +10,6 @@ Go 语言学习资料与社区索引
 
 ### 中文社区
 
- - [GolangHome 社区](http://golanghome.com/)：基于 [WeTalk](https://github.com/beego/wetalk) 搭建的新型社区
  - [Golang 中国](http://www.golangtc.com/)：国内较早的 Go 社区，汇聚各类信息与服务
  - [Study Golang](http://studygolang.com/)：国内 Go 社区先驱，同样汇聚各类信息与服务
  - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
