@@ -53,7 +53,7 @@ Go 语言学习资料与社区索引
     - [Emacs24](http://ftp.gnu.org/gnu/emacs/)：[配置脚本](https://github.com/wackonline/hack/blob/master/install-mint-dev/install-emacs.d.sh) / [(中文社区)](http://emacser.com/)
 	- [LiteIDE](https://github.com/visualfc/liteide)
 	- [Sublime Text 2/3](http://sublimetext.com)：[配置教程](http://my.oschina.net/Obahua/blog/110767)
-	- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+	- [GoLand](https://www.jetbrains.com/go/?fromMenu)
     - [Atom](https://atom.io)：[配置插件](https://atom.io/packages/go-plus)（感觉还不错，类似 Sublime，配置比较简单）
     - [VIM](http://www.vim.org)：[配置插件](https://github.com/humiaozuzu/dot-vimrc)（嫌 vim 配置麻烦的童鞋可以直接用这个）
 - 学习站点：
