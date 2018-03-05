@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2016 年 01 月 05 日
+**最后更新时间**：2018 年 03 月 02 日
 
 ## 交流社区
 
@@ -30,6 +30,7 @@ Go 语言学习资料与社区索引
 ## 网址导航
 
 - 官方：
+    - [Go 中国站点](https://golang.google.cn/): Go 语言中国官方站点(无需翻墙)
 	- [Playground](http://play.golang.org)：Go 语言代码在线运行
 - 国内镜像：
 	- [Go 指南国内镜像](http://tour.golangtc.com/)
@@ -104,6 +105,8 @@ Go 语言学习资料与社区索引
 	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
 	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
 	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
+	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
+	- [GopherCon 2017](https://github.com/gophercon/2017-talks)
 - 书籍：
 	- [Network programming with Go](http://jan.newmarch.name/go/)：[中文版](https://github.com/astaxie/NPWG_zh)
 	- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read#leanpub-auto-select-bibliography)
@@ -122,9 +125,12 @@ Go 语言学习资料与社区索引
 - GopherCon：
 	- 2014：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcD_BiJiDJUcyrb2w3bTulF)
 	- 2015：[Youtube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
+	- 2016：[Youtube](https://www.youtube.com/watch?v=KINIAgRpkDA&list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
+	- 2017：[Youtube](https://www.youtube.com/watch?v=ha8gdZ27wMo&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
 - Golang UK Conference：
 	- 2015：[Youtube](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
 - GopherCon India 2015: [Youtube](https://www.youtube.com/playlist?list=PLxFC1MYuNgJTY3uQ5Ja4F5Sz305nnrBOq)
+
 
 ## 职业信息
 
