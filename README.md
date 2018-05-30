@@ -2,9 +2,9 @@ Go 语言学习资料与社区索引
 ==============
 
 
-鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
+鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 ~2~3 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2018 年 04 月 25 日
+**最后更新时间**：2018 年 05 月 29 日
 
 ## 交流社区
 
@@ -94,9 +94,9 @@ Go 语言学习资料与社区索引
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
 - 翻译：
-	- [Effective Go](https://golang.org/doc/effective_go.html)英文版:=>[Effective Go ](http://www.hellogcc.org/effective_go.html)中文版
-	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN):中文版
-	- [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn)中文版
+	- [Effective Go](https://golang.org/doc/effective_go.html) 英文版
+	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN) 中文版
+	- [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
 - 教程：
 	- [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
