@@ -24,6 +24,7 @@ Go 语言学习资料与社区索引
 ### 英文社区
 
 - [Go Forum](https://forum.golangbridge.org/)：Go 语言爱好者英文交流论坛
+- [GoCN Forum](https://gocn.vip/)：Go 语言爱好者中文交流论坛
 - [golang-nuts 邮件列表](https://groups.google.com/forum/#!forum/golang-nuts)：Go 语言官方指定邮件列表讨论区
 - [Go+ 社区](https://plus.google.com/u/0/communities/114112804251407510571)：Go 语言官方指定 G+ 社区
 
@@ -55,6 +56,7 @@ Go 语言学习资料与社区索引
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
 	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
 	- [gopm.io](https://gopm.io)：科学下载第三方包
+    - [Json To Go struct](https://mholt.github.io/json-to-go/):Convert JSON to Go struct在线工具
 - 开发工具：
     - [Emacs24](http://ftp.gnu.org/gnu/emacs/)：[配置脚本](https://github.com/wackonline/hack/blob/master/install-mint-dev/install-emacs.d.sh) / [(中文社区)](http://emacser.com/)
 	- [LiteIDE](https://github.com/visualfc/liteide)
