@@ -47,6 +47,7 @@ Go 语言学习资料与社区索引
 	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
 	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
 	- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
+	- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
