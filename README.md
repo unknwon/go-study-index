@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 ~2~3 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2019 年 10 月 23 日
+**最后更新时间**：2020 年 03 月 24 日
 
 ## 交流社区
 
@@ -14,6 +14,7 @@ Go 语言学习资料与社区索引
  - [Study Golang](http://studygolang.com/)：国内 Go 社区先驱，同样汇聚各类信息与服务
  - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
  - [GoCN Forum](https://gocn.vip/)：Go 语言爱好者中文交流论坛
+ - [IGO.PUB Go社区](https://igo.pub/)：Go语言技术社区（新），完美主义者社区
  - QQ 群：
  	- Go Web 交流群：259316004
  	- Golang 中国：211938256
