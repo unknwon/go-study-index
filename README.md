@@ -15,6 +15,7 @@ Go 语言学习资料与社区索引
  - [Revel 交流论坛](http://gorevel.cn/)：[Revel](https://github.com/revel/revel) 框架的中文社区
  - [GoCN Forum](https://gocn.vip/)：Go 语言爱好者中文交流论坛
  - [IGO.PUB Go社区](https://igo.pub/)：Go语言技术社区（新），完美主义者社区
+ - [Go 技术论坛](https://learnku.com/go): Golang / Go 语言中国知识社区
  - QQ 群：
  	- Go Web 交流群：259316004
  	- Golang 中国：211938256
