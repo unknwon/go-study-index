@@ -127,6 +127,7 @@ Go 语言学习资料与社区索引
 	- [Mastering Concurrency in Go(July 2014)Nathan Kozyra](https://www.packtpub.com/application-development/mastering-concurrency-go)
 	- [Go Programming Blueprints(January 23,2015)](https://www.packtpub.com/application-development/go-programming-blueprints)
 	- [The Go Programming Language(Published Oct 30, 2015,Not Yet Published)](http://www.gopl.io/)
+	- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ### 视频资料
 
