@@ -115,6 +115,7 @@ Go 语言学习资料与社区索引
 - 文档：
 	- [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)：Go 语言代码风格指导
 	- [Go Code Convention](https://github.com/Unknwon/go-code-convention)：无闻的 Go 语言编码规范
+	- [Uber Go Guide](https://github.com/xxjwxc/uber_go_guide_cn): Uber Go 语言编码规范
 	- [GopherCon 2014](https://github.com/gophercon/2014-talks)
 	- [GopherCon 2015](https://github.com/gophercon/2015-talks)
 	- [GopherCon 2016](https://github.com/gophercon/2016-talks)
