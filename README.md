@@ -28,7 +28,6 @@ Go 语言学习资料与社区索引
 
 - [Go Forum](https://forum.golangbridge.org/)：Go 语言爱好者英文交流论坛
 - [golang-nuts 邮件列表](https://groups.google.com/forum/#!forum/golang-nuts)：Go 语言官方指定邮件列表讨论区
-- [Go+ 社区](https://plus.google.com/u/0/communities/114112804251407510571)：Go 语言官方指定 G+ 社区
 
 ### 知识图谱
 - [Go Knowledge Graph](https://github.com/gocn/knowledge)：Go 知识图谱
