@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 ~2~3 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2022 年 01 月 10 日
+**最后更新时间**：2022 年 08 月 09 日
 
 ## 交流社区
 
@@ -43,7 +43,7 @@ Go 语言学习资料与社区索引
 	- [Go 官方网站国内镜像](http://docs.studygolang.com/)
 - Web 框架：
 	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
-	- [Beego](http://beego.me/)：重量级 Web 框架
+	- [Beego](http://beego.vip/)：重量级 Web 框架
 	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
 	- [Martini（停止维护）](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
 	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
